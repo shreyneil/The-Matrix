@@ -3,10 +3,6 @@
 /*adding a black bg to the body to make things clearer*/
 body {background: black;
       width: 100%;
-    box-sizing: border-box;
-    /* max-width: 100%;
-    height: auto;
-    width: auto\9;*/
-    /* for auto resizing*/
+    box-sizing: border-box
 }
 canvas {display: block;}
