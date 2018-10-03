@@ -1,8 +1,9 @@
 /*basic reset*/
 * {margin: 0; padding: 0;}
 /*adding a black bg to the body to make things clearer*/
-body {background: black;
+body {
+      background: black;
       width: 100%;
-    box-sizing: border-box
+      box-sizing: border-box
 }
 canvas {display: block;}
